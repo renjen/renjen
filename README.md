@@ -2,46 +2,36 @@
 
 **CS Student @ UC San Diego | Gen AI & Cloud Engineering Enthusiast**
 
-I build intelligent systems that bridge AI and cloud infrastructure. Currently exploring agentic AI workflows, RAG pipelines, and scalable cloud solutions.
+## About Me
 
-## What I'm Working On
+I'm a computer science student passionate about building intelligent systems that bridge AI and cloud infrastructure. With hands-on experience in agentic AI workflows, RAG pipelines, and enterprise cloud integrations, I enjoy solving complex problems at the intersection of machine learning and scalable system design.
 
-- Building agentic AI applications with LangChain and LangGraph
-- Integrating enterprise systems with Azure and Oracle Cloud
-- Deepening my knowledge in ML algorithms and recommender systems
+I've worked on AI-driven resume intelligence platforms, enterprise cloud integrations with Oracle and Azure, and built autonomous coding agents that generate full applications from natural language prompts. When I'm not coding, I'm exploring new ML algorithms or mentoring fellow students in programming.
 
 ## Tech Stack
 
-**Languages:** Python • Java • C/C++ • JavaScript • SQL
+**Languages**
 
-**AI/ML:** LangChain • LangGraph • RAG Pipelines • OpenAI API • Prompt Engineering • Vector Databases
+Python • Java • C/C++ • JavaScript • HTML/CSS • SQL
 
-**Cloud & Data:** Microsoft Azure • Docker • Oracle SQL • MongoDB • Chroma • Pinecone • Supabase
+**AI & Machine Learning**
 
-**Tools:** Git • FastAPI • Streamlit • n8n • VS Code • Jupyter
+LangChain • LangGraph • RAG Pipelines • OpenAI API • Prompt Engineering • Vector Databases (Chroma, Pinecone) • LLama
 
-## Featured Projects
+**Cloud & Databases**
 
-### AI Coder Buddy
-One-prompt web app generator using LangGraph and agentic workflows. Takes natural language input like "create a calculator app" and outputs fully functional code.
+Microsoft Azure • Docker • Oracle SQL • MongoDB • Supabase • REST APIs
 
-**Tech:** LangChain, LangGraph, GPT Models, Groq Cloud, Python, FastAPI, Docker
+**Developer Tools**
 
-### Agentic AI File Reader
-Intelligent document Q&A system using RAG with ChromaDB and LangChain. Deployed with FastAPI, Docker, and Streamlit.
+Git • GitHub • FastAPI • Streamlit • n8n • VS Code • Jupyter • PyCharm • Azure DevOps
 
-**Tech:** LangChain, Python, ChromaDB, Streamlit, FastAPI, Docker
+## Currently Focused On
 
-### Cold Email Generator
-Automated personalized email generation tool using web scraping, LLama, and prompt engineering for targeted outreach.
-
-**Tech:** Python, LangChain, LLama, Streamlit, Pandas, Groq
-
-## Certifications
-
-- Microsoft Certified: Azure Fundamentals
-- Complete Python Pro Bootcamp
-- Teaching Computation in the Digital World
+- Building agentic AI applications using LangChain and LangGraph
+- Exploring advanced retrieval-augmented generation (RAG) architectures
+- Deepening knowledge in machine learning algorithms and recommender systems
+- Preparing for roles in AI engineering and cloud infrastructure
 
 ## Connect With Me
 
