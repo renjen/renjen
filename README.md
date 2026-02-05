@@ -1,4 +1,4 @@
-# Hi there, I'm Renee Dhanaraj
+# Hi there, I'm Renee
 
 **CS Student @ UC San Diego | Gen AI & Cloud Engineering Enthusiast**
 
